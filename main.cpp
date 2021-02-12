@@ -1,7 +1,9 @@
+#include <SDL.h>
 #include <iostream>
-#include <SDL2/SDL.h>
 
-int main() {
-    std::cout << "Hello, World!" << std::endl;
+#include "include/sdl2.h"
+
+int main(int argc, char *argv[]) {
+
     return 0;
 }
