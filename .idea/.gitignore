@@ -3,3 +3,11 @@
 /workspace.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+# build folders
+/build/
+
+# VS-files
+/.vs/
+*.vs/
+*.sln
+*.vcxproj*
