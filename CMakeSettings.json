@@ -1,0 +1,16 @@
+﻿{
+  "configurations": [
+    {
+      "buildCommandArgs": "",
+      "buildRoot": "${projectDir}\\build",
+      "cmakeCommandArgs": "",
+      "configurationType": "Debug",
+      "ctestCommandArgs": "",
+      "generator": "Visual Studio 16 2019",
+      "inheritEnvironments": [ "msvc_x64_x64" ],
+      "installRoot": "${projectDir}\\install",
+      "name": "Default",
+      "variables": []
+    }
+  ]
+}
